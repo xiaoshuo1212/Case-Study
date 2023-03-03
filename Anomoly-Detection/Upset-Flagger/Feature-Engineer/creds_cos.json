@@ -1,0 +1,8 @@
+{
+    "COS_ENDPOINT" :  "https://s3-api.us-geo.objectstorage.softlayer.net",
+    "COS_API_KEY_ID" : "CR6xlau-q-hABtDDOP2jdRdUkS6hbKWYV3TGimZedFBp",
+    "COS_AUTH_ENDPOINT" : "https://iam.ng.bluemix.net/oidc/token",
+    "COS_RESOURCE_CRN" : "crn:v1:bluemix:public:cloud-object-storage:global:a/7f0f5482e02649f58765bfee4496d6e7:ec6d8b9d-bca2-4232-b669-887d3bea1813::",
+    "COS_BUCKET_LOCATION ": "us-geo",
+    "BUCKET" : "suncor-tag-data"
+}
